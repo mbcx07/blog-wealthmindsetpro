@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wealthmindsetpro.com/blog-wealthmindsetpro/sitemap.xml
